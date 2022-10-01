@@ -1,0 +1,7 @@
+### Get All Students
+GET http://localhost:2345/api/students
+Content-Type: application/json
+
+### Get Student With ID
+GET http://localhost:2345/api/students/123456
+Content-Type: application/json
